@@ -10,5 +10,6 @@ you will learn some of code block **syntax** and **when to use it**.
 
 ## Code 301 - Intermediate Software Development
 
-| Page | Link |
-| ---- | ---- |
+| Page                       | Link                                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------------- |
+| Why Should I Learn Coding? | [link](https://www.bitdegree.org/tutorials/what-is-coding/#why-should-i-learn-coding) |
