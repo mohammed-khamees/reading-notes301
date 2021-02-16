@@ -16,3 +16,4 @@ you will learn some of code block **syntax** and **when to use it**.
 | SMACSS and Responsive Web Design | [link](https://mohammed-khamees.github.io/reading-notes301/SMACSS)                    |
 | jQuery, Events, and The DOM      | [link](https://mohammed-khamees.github.io/reading-notes301/jQueryEvents)              |
 | Flexbox and Templating           | [link](https://mohammed-khamees.github.io/reading-notes301/flexbox)                   |
+| CSS GRID                         | [link](https://mohammed-khamees.github.io/reading-notes301/cssGrid)                   |
