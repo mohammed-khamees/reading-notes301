@@ -21,3 +21,4 @@ you will learn some of code block **syntax** and **when to use it**.
 | NODE.JS                          | [link](https://mohammed-khamees.github.io/reading-notes301/NODE)                      |
 | REST                             | [link](https://mohammed-khamees.github.io/reading-notes301/REST)                      |
 | SQL                              | [link](https://mohammed-khamees.github.io/reading-notes301/SQL)                       |
+| FUNCTIONAL PROGRAMMING           | [link](https://mohammed-khamees.github.io/reading-notes301/FUNCTIONAL)                |
