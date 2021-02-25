@@ -130,9 +130,9 @@ var server = app.listen(4000, function() {
     Hobbies of <%=data.name%> are:<br/>
 
     <ul>
-        <% data.hobbies.forEach((item)=>{%>
+        </ data.hobbies.forEach((item)=>{/>
         <li><%=item%></li>
-        <%});%>
+        </});/>
     </ul>
 </body>
 
