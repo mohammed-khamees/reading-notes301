@@ -23,3 +23,4 @@ you will learn some of code block **syntax** and **when to use it**.
 | SQL                              | [link](https://mohammed-khamees.github.io/reading-notes301/SQL)                       |
 | FUNCTIONAL PROGRAMMING           | [link](https://mohammed-khamees.github.io/reading-notes301/FUNCTIONAL)                |
 | THE CALL STACK                   | [link](https://mohammed-khamees.github.io/reading-notes301/THECALLSTACK)              |
+| EJS                              | [link](https://mohammed-khamees.github.io/reading-notes301/EJS)                       |
