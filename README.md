@@ -24,3 +24,4 @@ you will learn some of code block **syntax** and **when to use it**.
 | FUNCTIONAL PROGRAMMING           | [link](https://mohammed-khamees.github.io/reading-notes301/FUNCTIONAL)                |
 | THE CALL STACK                   | [link](https://mohammed-khamees.github.io/reading-notes301/THECALLSTACK)              |
 | EJS                              | [link](https://mohammed-khamees.github.io/reading-notes301/EJS)                       |
+| EJS PARTIALS                     | [link](https://mohammed-khamees.github.io/reading-notes301/EJSPARTIALS)               |
